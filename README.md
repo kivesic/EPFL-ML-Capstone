@@ -11,4 +11,4 @@ The repository contains the following files:
 * Project.ipynb - Jupyter notebook with analysis
 * cross_border.csv the data file (the format of the data was slightly changed to make it readable by Jupyter).
 
-After reading the data and providing basic insigghts in the data, the data integrity is checked, and the plots show the the trends in commuters number per gender, age-group, and canton. Finally, the predictions are provided and evaluated for the future number of cross-border commuters relying on historical data.
+After reading the data and providing basic insights in the data, the data integrity is checked, and the plots show the the trends in commuters number per gender, age-group, and canton. Finally, the predictions are provided and evaluated for the future number of cross-border commuters relying on historical data.
